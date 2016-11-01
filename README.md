@@ -8,7 +8,7 @@ Course materials for General Assembly's Data Science course in San Francisco, CA
 
 **Office hours:**
 
-TBD
+* Monday at 5pm
 
 All will be held in the student center at GA, 225 Bush Street
 
@@ -28,14 +28,11 @@ All will be held in the student center at GA, 225 Bush Street
 
 ### Class 1: Introduction / Expectations / Intro to Data Science / Python Exercises
 
-####Agenda
-
-TBD
-
-####Homework
+#### Homework
 * Make sure you have everything installed as specified above in "Installation and Setup" by Monday
 * Read this awesome intro to Git [here](http://www.dataschool.io/tag/git/)
 * Read this intro to the iPython notebook [here](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
+* Read [Project 1 Instructions](projects/unit-projects/project-1/readme.md)
 
 
 
