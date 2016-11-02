@@ -50,7 +50,7 @@ Please fill this out at the end of each class! (link will be updated soon)
 
 | Class | Date | Topic |
 |:---:|:---:|:---|
-| 1 | 11/2 | Intro to Data Science |
+| 1 | 11/2 | [Intro to Data Science](https://github.com/ga-students/ds-sf-29/tree/master/lessons/lesson-01) |
 | 2 | 11/7 | Intro to git/_pandas_ |
 | 3 | 11/9 | Exploratory Data Analysis |
 | 4 | 11/14 | Flexible Class Session #1: Exploratory Data Analysis | 
