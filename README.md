@@ -19,7 +19,7 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 ## Exit Tickets
 
-Please fill this out at the end of each class! (link will be updated soon)
+[Please fill this out at the end of each class!](http://bit.ly/dat29exitticket)
 
 ## Final Project
 
