@@ -43,7 +43,7 @@ Please fill this out at the end of each class! (link will be updated soon)
 * Make sure you have everything installed as specified above in "Installation and Setup" by Monday
 * Read this awesome intro to Git [here](http://www.dataschool.io/tag/git/)
 * Read this intro to the iPython notebook [here](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
-* Read [Project 1 Instructions](projects/unit-projects/project-1/readme.md)
+* Read [Project 1 Instructions](./projects/unit-projects/project-1/)
 
 
 ## Tentative Schedule (dates are fixed, topics will likely change)
