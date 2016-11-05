@@ -1,9 +1,9 @@
 ---
 title: Experimental Design and Pandas
-duration: "1:45"
+duration: "3hrs"
 creator:
-    name: Amy Roberts, Lab/Codealong from GADS11
-    city: NYC
+    name: K. Nathaniel Tucker
+    city: SF
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Experimental Design and Pandas
@@ -23,14 +23,6 @@ DS | Lesson 2
 
 - Create, open and create and iPython Notebook
 - Have completed python pre-work
-
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-
-- Review [Unit Project 1](../../projects/unit-projects/project-1/readme.md)
-- Copy and modify the [lesson slide deck](./assets/slides/slides-2.md)
-- Add to the "Additional Resources" section for this lesson
-
 
 ### LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
@@ -173,24 +165,6 @@ As we saw in the attainable section above, different types of data have differen
 - Determine if the number of passengers on JetBlue, Delta, and United domestic flights with carry-on luggage is associated with delayed take-off time using data from flightstats.com from January 2015- December 2015.
 - Can you create a cross-sectional analysis from a longitudinal data collection? How?
 
-<a name="#guidedpractice"></a>
-## Guided Practice: Write a research question with raw data (10 mins)
-Looking at the data from Kaggle's Titanic competition, let's write a high quality research question.
-
-- Resource: [Data dictionary](https://www.kaggle.com/c/titanic/data)
-- Format: Think, Pair, Share
-
-**Check:**
-
-1. Q: What type of data is this cross-sectional or longitudinal?
-    - A: cross-sectional
-
-2. Q: What will we be measuring (hint: look back at the previous example)
-    - A: The association between being a woman or a child and survival on the Titanic.
-
-3. Q: Write out a SMART aim for this data:
-    - A: Using data from April 15, 1912, taken from the Titanic disaster, we will determine the association of gender, age (in years) and survival.
-
 <a name="review1"></a>
 ## SMART Review
 The S.M.A.R.T. process covers the "Identify" step of the data science workflow. We also explored the strengths and weaknesses of two types of data.
@@ -234,7 +208,6 @@ Before and after you acquire your data, you also want to make sure you understan
 Data dictionaries are often our primary source to help judge the quality of our data and also to understand how it is coded. If our gender variables are coded 0 and 1, how do we know which is male and which is female? Your data dictionary! Is your currency variable coded in dollars or euros? Data dictionary!
 
 ##### Data Dictionary Examples
-> Instructor Note: Here you should show a few examples from Kaggle or your own work (i.e. the basic Titanic example from above or any more elaborate ones).
 
 Data dictionaries are also where you'll identify any requirements, assumptions, and constraints of your data. Note that you should never assume that a pre-existing data dictionary is complete. It is often going to be up to you to test your assumptions and add to your dictionary.
 
@@ -243,7 +216,6 @@ Data dictionaries are also where you'll identify any requirements, assumptions, 
 
 <a name="codealong"></a>
 ## Codealong- Numpy and Pandas intro (30 minutes)
-> Instructor Note: See [NumPy & Pandas notebook](./code/numpy-and-pandas.ipynb)
 
 What is Numpy and Pandas?
 Pandas is built on Python. In Numpy, we use arrays. With arrays you can do:
@@ -255,11 +227,7 @@ Pandas uses data structures that will look more familiar to folks who have used 
 
 Similarly, you can select pieces of data, do basic operations, and calculate summary statistics. Let's see some examples:
 
-> Instructor's Note: View [Examples from the Sample Notebook](./code/numpy-and-pandas.ipynb)
-
 Additionally, we often have to merge data together, correct missing data, and plot our findings. Let's see some examples of each of these:
-
-> Instructor's Note: View [Examples from the Sample Notebook](./code/numpy-and-pandas.ipynb)
 
 **Check:** What is a 'dataframe' and when would you use one?
 
@@ -279,8 +247,6 @@ The purpose of this lab is to get some practice working with Pandas. We will div
 
 <a name="lab"></a>
 ## Lesson 2 Lab (20 min)
-> Instructor Note: Have students walk through each question within the [Lesson 2 Lab](./code/starter-code/starter-code-2.ipynb).
-> Instructor Note: If time, [go over solutions](./code/solution-code/solution-code-2.ipynb)
 
 
 <a name="conclusion"></a>
@@ -289,7 +255,6 @@ The purpose of this lab is to get some practice working with Pandas. We will div
 - Review solutions & questions from lab
 - Review objectives from class
 
-> Instructor Note: Ask students to generate a list of the major takeaways
 
 <a name="wrapup"></a>
 ## Unit 1, project, where we're headed (15 mins)
