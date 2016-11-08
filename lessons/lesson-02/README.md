@@ -271,5 +271,8 @@ The purpose of this lab is to get some practice working with Pandas. We will div
 | **UPCOMING PROJECTS** | [Unit Project 1](../../projects/unit-projects/project-1/readme.md) |
 
 
-### ADDITIONAL RESOURCES
-- If any
+#### Resources:
+* Another Git turorial [here](try.github.io)
+* In depth Git/Github tutorial series made by a GA_DC  Data Science Instructor [here](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
+	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his ipython notebook!
