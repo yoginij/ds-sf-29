@@ -13,7 +13,7 @@ Course materials for General Assembly's Data Science course in San Francisco, CA
 ### Office hours
 
 * Nate: Monday at 5pm
-* Dan: TBD
+* Dan: To be determined
 
 All will be held in the student center at GA, 225 Bush Street, SF.
 
