@@ -1,9 +1,9 @@
 ---
 title: Statistics Fundamentals
-duration: "1:45"
+duration: "3"
 creator:
-    name: Amy Roberts
-    city: NYC
+    name: K. Nathaniel Tucker
+    city: SF
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Statistics Fundamentals
