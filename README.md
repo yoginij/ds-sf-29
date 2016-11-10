@@ -21,6 +21,10 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 [Please fill this out at the end of each class!](http://bit.ly/dat29exitticket)
 
+## Unit Projects
+
+[Overview](projects/unit-projects)
+
 ## Final Project
 
 **[Course Project Information](project.md)**
@@ -47,7 +51,7 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 ## Class 2: Intro to git/_pandas_
 
-####Homework
+### Homework
 * Go through the python files and finish any exercise you weren't able to in class
 * Make sure you have all of the repos forked and ready to go
 * Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
@@ -57,25 +61,25 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 ## Tentative Schedule (dates are fixed, topics will likely change)
 
-| Class | Date | Topic |
-|:---:|:---:|:---|
-| 1 | 11/2 | [Intro to Data Science](https://github.com/ga-students/ds-sf-29/tree/master/lessons/lesson-01) |
-| 2 | 11/7 | Intro to git/_pandas_ |
-| 3 | 11/9 | Exploratory Data Analysis |
-| 4 | 11/14 | Flexible Class Session #1: Exploratory Data Analysis |
-| 5 | 11/16 | Model Fit |
-| 6 | 11/21 | Linear Regression |
-| 7 | 11/28 | Linear Regression and Model Fit, Part 2 |
-| 8 | 11/30 | k-Nearest Neighbors |
-| 9 | 12/5 | Logistic Regression |
-| 10 | 12/7 | Flexible Class Session #2: Machine Learning Modeling |
-| 11 | 12/12 | Advanced Metrics and Communicating Results |
-| 12 | 12/14 | Decision Trees and Random Forests |
-| 13 | 12/19 | Flexible Class Session #3: Machine Learning Modeling, Part 2 |
-| 14 | 12/21 | Flexible Class Session #4: Market Segmentation |
-| 15 | 1/4 | Introduction to Time Series |
-| 16 | 1/9 | Introduction to Natural Language Processing |
-| 17 | 1/11 | Introduction to Databases |
-| 18 | 1/16 | Wrapping Up and Next Steps |
-| 19 | 1/18 | Final Project Presentations |
-| 20 | 1/23 | Final Project Presentations, Part 2 |
+| Class | Date | Topic | Due |
+|:---:|:---:|:---|:---:|
+| 1 | 11/2 | [Intro to Data Science](lessons/lesson-01) | |
+| 2 | 11/7 | [Intro to git/_pandas_](lessons/lesson-02) | |
+| 3 | 11/9 | [Statistics Fundamentals](lessons/lesson-03) | |
+| 4 | 11/14 | Flexible Class Session #1: Exploratory Data Analysis |[Unit Project 1](projects/unit-projects/project-1)|
+| 5 | 11/16 | Model Fit | |
+| 6 | 11/21 | Linear Regression | |
+| 7 | 11/28 | Linear Regression and Model Fit, Part 2 | |
+| 8 | 11/30 | k-Nearest Neighbors | |
+| 9 | 12/5 | Logistic Regression | |
+| 10 | 12/7 | Flexible Class Session #2: Machine Learning Modeling | |
+| 11 | 12/12 | Advanced Metrics and Communicating Results | |
+| 12 | 12/14 | Decision Trees and Random Forests | |
+| 13 | 12/19 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | |
+| 14 | 12/21 | Flexible Class Session #4: Market Segmentation | |
+| 15 | 1/4 | Introduction to Time Series | |
+| 16 | 1/9 | Introduction to Natural Language Processing | |
+| 17 | 1/11 | Introduction to Databases | |
+| 18 | 1/16 | Wrapping Up and Next Steps | |
+| 19 | 1/18 | Final Project Presentations | |
+| 20 | 1/23 | Final Project Presentations, Part 2 | |
