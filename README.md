@@ -70,6 +70,12 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 * Read through [Project 2](projects/unit-projects/project-1/), it's due next week!
 
+## Class 5: APIs and Getting Data
+
+#### Homework
+
+* Read through [Project 2](projects/unit-projects/project-1/), it's due next week!
+
 ## Tentative Schedule (dates are fixed, topics will likely change)
 
 | Class | Date | Topic | Due |
