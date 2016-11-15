@@ -82,21 +82,21 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 |:---:|:---:|:---|:---:|
 | 1 | 11/2 | [Intro to Data Science](lessons/lesson-01) | |
 | 2 | 11/7 | [Intro to git/_pandas_](lessons/lesson-02) | |
-| 3 | 11/9 | [Statistics Fundamentals](lessons/lesson-03) | |
-| 4 | 11/14 | Flexible Class Session #1: Exploratory Data Analysis |[Unit Project 1](projects/unit-projects/project-1)|
-| 5 | 11/16 | Model Fit | |
-| 6 | 11/21 | Linear Regression | |
+| 3 | 11/9 | [Statistics Fundamentals I](lessons/lesson-03) | |
+| 4 | 11/14 | [Statistics Fundamentals II](lessons/lesson-04) |[Unit Project 1](projects/unit-projects/project-1)|
+| 5 | 11/16 | [APIs and Getting Data](lessons/lesson-05) | |
+| 6 | 11/21 | Linear Regression |[Unit Project 2](projects/unit-projects/project-2)|
 | 7 | 11/28 | Linear Regression and Model Fit, Part 2 | |
-| 8 | 11/30 | k-Nearest Neighbors | |
+| 8 | 11/30 | k-Nearest Neighbors |[Final Project 1](projects/final-projects/01-lightning-talk)|
 | 9 | 12/5 | Logistic Regression | |
-| 10 | 12/7 | Flexible Class Session #2: Machine Learning Modeling | |
+| 10 | 12/7 | Flexible Class Session #2: Machine Learning Modeling |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 11 | 12/12 | Advanced Metrics and Communicating Results | |
-| 12 | 12/14 | Decision Trees and Random Forests | |
+| 12 | 12/14 | Decision Trees and Random Forests |[Unit Project 3](projects/unit-projects/project-3)|
 | 13 | 12/19 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | |
-| 14 | 12/21 | Flexible Class Session #4: Market Segmentation | |
+| 14 | 12/21 | Flexible Class Session #4: Market Segmentation |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
 | 15 | 1/4 | Introduction to Time Series | |
-| 16 | 1/9 | Introduction to Natural Language Processing | |
+| 16 | 1/9 | Introduction to Natural Language Processing |[Unit Project 4](projects/unit-projects/project-4)|
 | 17 | 1/11 | Introduction to Databases | |
-| 18 | 1/16 | Wrapping Up and Next Steps | |
+| 18 | 1/16 | Wrapping Up and Next Steps | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
 | 19 | 1/18 | Final Project Presentations | |
-| 20 | 1/23 | Final Project Presentations, Part 2 | |
+| 20 | 1/23 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
