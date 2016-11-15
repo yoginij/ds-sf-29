@@ -76,6 +76,13 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 
 * Read through [Project 2](projects/unit-projects/project-1/), it's due next week!
 
+## Class 6: Intro to Regression Analysis
+
+#### Homework
+
+* [Final Project, Deliverable 1](/projects/final-projects/01-lightning-talk/readme.md) is due after thanks giving.
+
+
 ## Tentative Schedule (dates are fixed, topics will likely change)
 
 | Class | Date | Topic | Due |
