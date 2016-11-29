@@ -10,19 +10,19 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 
 ## Project Directory
 
-1. **[Unit Projects](./unit-projects/readme.md)**
-  - [Project 1](./unit-projects/project-1/readme.md)
-  - [Project 2](./unit-projects/project-2/readme.md)
-  - [Project 3](./unit-projects/project-3/readme.md)
-  - [Project 4](./unit-projects/project-4/readme.md)
+1. **[Unit Projects](./unit-projects/)**
+  - [Project 1](./unit-projects/project-1/)
+  - [Project 2](./unit-projects/project-2/)
+  - [Project 3](./unit-projects/project-3/)
+  - [Project 4](./unit-projects/project-4/)
 
 
-2. **[Final Projects](./final-projects/readme.md)**
+2. **[Final Projects](./final-projects/)**
   - [Final, Part 1](./final-projects/01-lightning-talk/)
-  - [Final, Part 2](./final-projects/02-experiment-writeup/readme.md)
-  - [Final, Part 3](./final-projects/03-exploratory-analysis/readme.md)
-  - [Final, Part 4](./final-projects/04-notebook-rough-draft/readme.md)
-  - [Final, Part 5](./final-projects/05-presentation/readme.md)
+  - [Final, Part 2](./final-projects/02-experiment-writeup/)
+  - [Final, Part 3](./final-projects/03-exploratory-analysis/)
+  - [Final, Part 4](./final-projects/04-notebook-rough-draft/)
+  - [Final, Part 5](./final-projects/05-presentation/)
 
 
 ## Project Timeline
@@ -38,10 +38,6 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 | **Unit 3** | [Final Project, pt 3](./final-projects/03-exploratory-analysis/readme.md) | [Assigned Lesson 14](../lessons/lesson-14/readme.md) | [Due Lesson 16](../lessons/lesson-16/readme.md) |
 | **Unit 3** | [Final Project, pt 4](./final-projects/04-notebook-rough-draft/readme.md) | [Assigned Lesson 16](../lessons/lesson-16/readme.md) | [Due Lesson 18](../lessons/lesson-18/readme.md) |
 | **Unit 3** | [Final Project, pt 5](./final-projects/05-presentation/readme.md) | [Assigned Lesson 18](../lessons/lesson-18/readme.md) | Due Lesson 20 |
-
-
-
-> We've also provided you with a [visual timeline for project due dates](../resources/instructor-resources/DS-project-due-dates.pdf).
 
 
 ---
