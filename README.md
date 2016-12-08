@@ -92,9 +92,9 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 | 3 | 11/9 | [Statistics Fundamentals I](lessons/lesson-03) | |
 | 4 | 11/14 | [Statistics Fundamentals II](lessons/lesson-04) |[Unit Project 1](projects/unit-projects/project-1)|
 | 5 | 11/16 | [APIs and Getting Data](lessons/lesson-05) | |
-| 6 | 11/21 | Linear Regression |[Unit Project 2](projects/unit-projects/project-2)|
-| 7 | 11/28 | Linear Regression and Model Fit, Part 2 | |
-| 8 | 11/30 | k-Nearest Neighbors |[Final Project 1](projects/final-projects/01-lightning-talk)|
+| 6 | 11/21 | [Linear Regression](lessons/lesson-06) | |
+| 7 | 11/28 | [Linear Regression and Model Fit, Part 2](lessons/lesson-07) |[Unit Project 2](projects/unit-projects/project-2)||
+| 8 | 11/30 | [k-Nearest Neighbors](lessons/lesson-08) |[Final Project 1](projects/final-projects/01-lightning-talk)|
 | 9 | 12/5 | Logistic Regression | |
 | 10 | 12/7 | Flexible Class Session #2: Machine Learning Modeling |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 11 | 12/12 | Advanced Metrics and Communicating Results | |
