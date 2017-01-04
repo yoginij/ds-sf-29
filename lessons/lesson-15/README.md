@@ -7,7 +7,7 @@ creator:
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Modeling Timeseries Data
-DS | Lesson 16
+DS | Lesson 15
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
