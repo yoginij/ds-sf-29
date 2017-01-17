@@ -97,13 +97,13 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 | 8 | 11/30 | [k-Nearest Neighbors](lessons/lesson-08) |[Final Project 1](projects/final-projects/01-lightning-talk)|
 | 9 | 12/5 | [Logistic Regression](lessons/lesson-09) | |
 | 10 | 12/7 | [Advanced Metrics and Communicating Results](lessons/lesson-10) ||
-| 11 | 12/12 | Flexible Class Session #2: Machine Learning Modeling |[Unit Project 3](projects/unit-projects/project-3)|
-| 12 | 12/14 | Decision Trees and Random Forests |[Final Project 2](projects/final-projects/02-experiment-writeup)|
-| 13 | 12/19 | Flexible Class Session #3: Machine Learning Modeling, Part 2 | |
-| 14 | 12/21 | Flexible Class Session #4: Market Segmentation |[Unit Project 4](projects/unit-projects/project-4)|
-| 15 | 1/4 | Introduction to Time Series | |
-| 16 | 1/9 | Introduction to Natural Language Processing |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
-| 17 | 1/11 | Introduction to Databases | |
+| 11 | 12/12 | [Decision Trees and Random Forests](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
+| 12 | 12/14 | [Natural Language Processing](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 13 | 12/19 | [Latent Variables and NLP](lessons/lesson-13) | |
+| 14 | 12/21 | Market Segmentation |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 15 | 1/4 | Introduction to Time Series |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
+| 16 | 1/9 | Introduction to Natural Language Processing | |
+| 17 | 1/11 | Introduction to Databases | [Unit Project 4](projects/unit-projects/project-4) |
 | 18 | 1/16 | Wrapping Up and Next Steps | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
 | 19 | 1/18 | Final Project Presentations | |
 | 20 | 1/23 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
